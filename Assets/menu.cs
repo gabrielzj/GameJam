@@ -11,6 +11,10 @@ public class menu : MonoBehaviour
         SceneManager.LoadSceneAsync(1);
     }
 
+    public void ajuda()
+    {
+        SceneManager.LoadSceneAsync(3);
+    }
     public void sair()
     {
         Application.Quit();

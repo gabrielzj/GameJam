@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - wall
+  - braia
+  - font
+  - nobraia
+  - map
+  - vic
+  - teleport
   layers:
   - Default
   - TransparentFX
