@@ -34,11 +34,12 @@ Your player is a colorful circle. You are trapped in a maze in a complete darkne
 #### You must collect the item to exit and finish the game.
 ![sourceitem](Assets/coletáveis/item_fonte.png)
 ## Group 👊
- This project was co-developed by:
- - [Gabriel Sarubo](https://github.com/gabrielsarubo)
- - [Anderson Felipe](https://github.com/AndersonFBD)
- - [Welyson Carlos](https://github.com/welyson1)
- - [Gabriel Cau](https://github.com/GabrielPVCau)
+ This was a project created by:
+ - Me - Coding
+ - [Anderson Felipe](https://github.com/AndersonFBD) (Coding, Idea)
+ - [Gabriel Sarubo](https://github.com/gabrielsarubo) (Coding)
+ - [Welyson Carlos](https://github.com/welyson1) (Art)
+ - [Gabriel Cau](https://github.com/GabrielPVCau) (Art)
 
 
 
