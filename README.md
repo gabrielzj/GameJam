@@ -4,6 +4,7 @@
 1. The game must be developed using a game engine.
 2. The game theme must be related to Fear.
 3. The game must have an item: "the source" (will be explained).
+4. The competition time limit is 24 hours, meaning there is no extra time.
 ## Concept 💡
 Your player is a colorful circle. You are trapped in a maze in a complete darkness. You can only see a small area around you. Your goal is to find the special item "source" and the exit. There are a few collectibles that can give you some buffs or debuffs during a short time.
 ## Art 🎨
